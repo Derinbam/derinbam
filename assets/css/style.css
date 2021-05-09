@@ -466,7 +466,11 @@ p {
 
 .hero-content .list-social li i {
   color: #9999FF;   /*#fff*/
-  font-size: 15px;
+  font-size: 30px;
+}
+
+.icon-cog {
+  color: black;
 }
 
 /*--------------------------------------------------------------
