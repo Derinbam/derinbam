@@ -152,7 +152,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: black;
+  background: #9985FF;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -469,8 +469,9 @@ p {
   font-size: 30px;
 }
 
-.icon-cog {
+.icon {
   color: black;
+  font-size: 24pxs;
 }
 
 /*--------------------------------------------------------------
