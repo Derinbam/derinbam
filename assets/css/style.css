@@ -467,12 +467,14 @@ p {
 .hero-content .list-social li i {
   color: #9999FF;   /*#fff*/
   font-size: 30px;
+  
 }
 
 .icon {
   color: black;
-  font-size: 24pxs;
+  font-size: 24px;
 }
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
